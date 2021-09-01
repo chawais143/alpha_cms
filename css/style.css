@@ -1,0 +1,93 @@
+body {
+
+}
+
+
+.navbar{
+	color: #fff;
+}
+
+
+body#login {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #1f87c2 !important;
+  color: #fff;
+}
+
+
+body#login h2{
+	color: #fff;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+/*.breadcrumb{
+
+	width: 100%;
+	height: 40px;
+	background: #F5F4F6;
+	padding: 5px;
+}
+.breadcrumb li{
+margin-left: 15px;
+}
+.breadcrumb li a{
+ text-decoration: none;
+ margin-left: 10px;*/
+
+
+footer{
+	position: absolute;
+	bottom: 20px;
+	width:100%;
+	margin-top: 30px;
+	padding-top: 20px;
+	height: 60px;
+	text-align: center;
+	background-color: #1f87c2 !important;
+	color: #fff;
+	
+}
+
+
+.actions{
+	float: right;
+}
+
+
+.tablesorter-header{
+	cursor: pointer;
+}
